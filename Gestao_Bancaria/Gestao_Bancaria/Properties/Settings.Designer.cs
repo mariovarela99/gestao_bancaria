@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Gestao_Bancaria.Properties
+namespace gestao_bancaria.Properties
 {
 
 

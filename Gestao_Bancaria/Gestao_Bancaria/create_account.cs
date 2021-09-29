@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace gestao_bancaria
 {
-    public partial class Home : Form
+    public partial class create_account : Form
     {
-        public Home()
+        public create_account()
         {
             InitializeComponent();
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }
