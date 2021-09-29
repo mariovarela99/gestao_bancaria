@@ -1,0 +1,9 @@
+C:\Users\mariovarela99\3D Objects\gestao_bancaria\Gestao_Bancaria\Gestao_Bancaria\bin\Debug\Gestao_Bancaria.exe.config
+C:\Users\mariovarela99\3D Objects\gestao_bancaria\Gestao_Bancaria\Gestao_Bancaria\bin\Debug\Gestao_Bancaria.exe
+C:\Users\mariovarela99\3D Objects\gestao_bancaria\Gestao_Bancaria\Gestao_Bancaria\bin\Debug\Gestao_Bancaria.pdb
+C:\Users\mariovarela99\3D Objects\gestao_bancaria\Gestao_Bancaria\Gestao_Bancaria\obj\Debug\Gestao_Bancaria.csprojResolveAssemblyReference.cache
+C:\Users\mariovarela99\3D Objects\gestao_bancaria\Gestao_Bancaria\Gestao_Bancaria\obj\Debug\Gestao_Bancaria.Form1.resources
+C:\Users\mariovarela99\3D Objects\gestao_bancaria\Gestao_Bancaria\Gestao_Bancaria\obj\Debug\Gestao_Bancaria.Properties.Resources.resources
+C:\Users\mariovarela99\3D Objects\gestao_bancaria\Gestao_Bancaria\Gestao_Bancaria\obj\Debug\Gestao_Bancaria.csproj.GenerateResource.Cache
+C:\Users\mariovarela99\3D Objects\gestao_bancaria\Gestao_Bancaria\Gestao_Bancaria\obj\Debug\Gestao_Bancaria.exe
+C:\Users\mariovarela99\3D Objects\gestao_bancaria\Gestao_Bancaria\Gestao_Bancaria\obj\Debug\Gestao_Bancaria.pdb
