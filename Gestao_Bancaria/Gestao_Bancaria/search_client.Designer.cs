@@ -1,6 +1,6 @@
 ﻿namespace gestao_bancaria
 {
-    partial class Home
+    partial class search_client
     {
         /// <summary>
         /// Required designer variable.
@@ -30,14 +30,13 @@
         {
             this.SuspendLayout();
             // 
-            // Home
+            // search_client
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(883, 454);
-            this.Name = "Home";
-            this.Text = "Home | Gestão Bancária";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Name = "search_client";
+            this.Text = "Pesquisar Cliente";
             this.ResumeLayout(false);
 
         }
@@ -45,4 +44,3 @@
         #endregion
     }
 }
-

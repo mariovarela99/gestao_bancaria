@@ -1,6 +1,6 @@
 ﻿namespace gestao_bancaria
 {
-    partial class Home
+    partial class transfer_screen
     {
         /// <summary>
         /// Required designer variable.
@@ -30,14 +30,13 @@
         {
             this.SuspendLayout();
             // 
-            // Home
+            // transfer_screen
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(883, 454);
-            this.Name = "Home";
-            this.Text = "Home | Gestão Bancária";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Name = "transfer_screen";
+            this.Text = "Transferências";
             this.ResumeLayout(false);
 
         }
@@ -45,4 +44,3 @@
         #endregion
     }
 }
-

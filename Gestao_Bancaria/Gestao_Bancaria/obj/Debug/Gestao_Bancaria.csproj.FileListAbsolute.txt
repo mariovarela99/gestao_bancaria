@@ -1,1 +1,9 @@
 C:\Users\mariovarela99\3D Objects\gestao_bancaria\gestao_bancaria\gestao_bancaria\bin\Debug\gestao_bancaria.exe.config
+C:\Users\mariovarela99\3D Objects\gestao_bancaria\gestao_bancaria\gestao_bancaria\bin\Debug\gestao_bancaria.exe
+C:\Users\mariovarela99\3D Objects\gestao_bancaria\gestao_bancaria\gestao_bancaria\bin\Debug\gestao_bancaria.pdb
+C:\Users\mariovarela99\3D Objects\gestao_bancaria\gestao_bancaria\gestao_bancaria\obj\Debug\gestao_bancaria.create_account.resources
+C:\Users\mariovarela99\3D Objects\gestao_bancaria\gestao_bancaria\gestao_bancaria\obj\Debug\gestao_bancaria.Home.resources
+C:\Users\mariovarela99\3D Objects\gestao_bancaria\gestao_bancaria\gestao_bancaria\obj\Debug\gestao_bancaria.Properties.Resources.resources
+C:\Users\mariovarela99\3D Objects\gestao_bancaria\gestao_bancaria\gestao_bancaria\obj\Debug\gestao_bancaria.csproj.GenerateResource.Cache
+C:\Users\mariovarela99\3D Objects\gestao_bancaria\gestao_bancaria\gestao_bancaria\obj\Debug\gestao_bancaria.exe
+C:\Users\mariovarela99\3D Objects\gestao_bancaria\gestao_bancaria\gestao_bancaria\obj\Debug\gestao_bancaria.pdb
